@@ -7,5 +7,6 @@ int main()
     cin >> a >> b;
     int c = lcm(a, b);
     cout << c;
+    cout << "Alo";
     return 0;
 }
